@@ -1,0 +1,2 @@
+%{"bunt": {:hex, :bunt, "0.1.6", "5d95a6882f73f3b9969fdfd1953798046664e6f77ec4e486e6fafc7caad97c6f", [:mix], []},
+  "econfig": {:git, "https://github.com/benoitc/econfig.git", "84d7cec15f321c4ac5f5c6e08e5a9a8adea01986", []}}
